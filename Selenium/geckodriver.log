@@ -1,0 +1,61 @@
+1534419109836	geckodriver	INFO	geckodriver 0.21.0
+1534419109847	geckodriver	INFO	Listening on 127.0.0.1:32824
+1534419111436	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4VSpkX1bRQWC"
+1534419113190	Marionette	INFO	Listening on port 2828
+1534419240352	geckodriver	INFO	geckodriver 0.21.0
+1534419240363	geckodriver	INFO	Listening on 127.0.0.1:55903
+1534419241670	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gz6PqCNbW1Kk"
+1534419243378	Marionette	INFO	Listening on port 2828
+1534419326841	geckodriver	INFO	geckodriver 0.21.0
+1534419326853	geckodriver	INFO	Listening on 127.0.0.1:59956
+1534419328062	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.HRVbtk0b2xGY"
+1534419329698	Marionette	INFO	Listening on port 2828
+1534420591066	geckodriver	INFO	geckodriver 0.21.0
+1534420591077	geckodriver	INFO	Listening on 127.0.0.1:42145
+1534420592284	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.x0UIaxbtRG4u"
+1534420593978	Marionette	INFO	Listening on port 2828
+1534420689083	geckodriver	INFO	geckodriver 0.21.0
+1534420689093	geckodriver	INFO	Listening on 127.0.0.1:40064
+1534420690389	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GHhGDYa349ty"
+1534420692062	Marionette	INFO	Listening on port 2828
+1534420772192	geckodriver	INFO	geckodriver 0.21.0
+1534420772204	geckodriver	INFO	Listening on 127.0.0.1:45999
+1534420773380	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rPQNylL7Zni1"
+1534420775054	Marionette	ERROR	Error on starting server: [Exception... "Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]"  nsresult: "0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE)"  location: "JS frame :: chrome://marionette/content/server.js :: MarionetteServer.prototype.start :: line 95"  data: no]
+[Exception... "Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]"  nsresult: "0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE)"  location: "JS frame :: chrome://marionette/content/server.js :: MarionetteServer.prototype.start :: line 95"  data: no]
+MarionetteServer.prototype.start@chrome://marionette/content/server.js:95:19
+MarionetteComponent.prototype.init@resource://gre/components/marionette.js:217:5
+MarionetteComponent.prototype.handle@resource://gre/components/marionette.js:112:5
+
+1534421466162	geckodriver	INFO	geckodriver 0.21.0
+1534421466182	geckodriver	INFO	Listening on 127.0.0.1:42016
+1534421467377	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VBuE2ldcbdKZ"
+1534421469008	Marionette	INFO	Listening on port 2828
+1534422026067	geckodriver	INFO	geckodriver 0.21.0
+1534422026086	geckodriver	INFO	Listening on 127.0.0.1:33169
+1534422027308	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.R8prQHiBdxaN"
+1534422029222	Marionette	INFO	Listening on port 2828
+1534423544060	geckodriver	INFO	geckodriver 0.21.0
+1534423544078	geckodriver	INFO	Listening on 127.0.0.1:54561
+1534423545621	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wpAObsRqJsha"
+1534423547418	Marionette	INFO	Listening on port 2828
+1534424424263	geckodriver	INFO	geckodriver 0.21.0
+1534424424273	geckodriver	INFO	Listening on 127.0.0.1:60783
+1534424425752	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lepugStLPxAz"
+1534424427512	Marionette	INFO	Listening on port 2828
+1534428159317	geckodriver	INFO	geckodriver 0.21.0
+1534428159333	geckodriver	INFO	Listening on 127.0.0.1:41578
+1534428160848	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2r2xlXNaCpg6"
+1534428164589	Marionette	INFO	Listening on port 46057
+1534428164694	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.centos.org/assets/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.centos.org/assets/js/jquery.cycle2.min.js, line 17: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1534428251528	geckodriver	INFO	geckodriver 0.21.0
+1534428251539	geckodriver	INFO	Listening on 127.0.0.1:49856
+1534428252915	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uMnuq2dG4DVA"
+1534428256942	Marionette	INFO	Listening on port 34534
+1534428257055	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.centos.org/assets/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.centos.org/assets/js/jquery.cycle2.min.js, line 17: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+** (firefox:10524): WARNING **: No marshaller for signature of signal 'PropertiesChanged'
